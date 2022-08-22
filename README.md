@@ -62,7 +62,3 @@ cd poker.engine
 npm test
 ```
 
-
-Credits:
-
-Thank you to [mdashx](https://github.com/mdashx) for [the inspiration](https://github.com/mdashx/pangea-poker-frontend) and the use of the background table images, cards and animation logic.
